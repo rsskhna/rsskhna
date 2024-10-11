@@ -19,21 +19,21 @@
 
 <h3>Technology stack</h3>
 <p>
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/html.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/css.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/scss.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/js.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/typescript.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/react.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/redux.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/api.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/cypress.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/jest.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/git.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/webpack.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/vite.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/storybook.svg" alt="" />
-    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/figma.svg" alt="" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/html.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/css.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/scss.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/js.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/typescript.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/react.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/redux.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/api.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/cypress.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/jest.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/git.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/webpack.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/vite.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/storybook.svg" alt="" width="40" />
+    <img src="https://github.com/rsskhna/rsskhna/raw/main/images/figma.svg" alt="" width="40" />
 </p>
 
 
