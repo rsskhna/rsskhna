@@ -18,7 +18,7 @@
 </ul>
 
 <h3>Technology stack</h3>
-<p>
+<p style="background-color: #131920">
     <img src="https://github.com/rsskhna/rsskhna/raw/main/images/html.svg" alt="" width="40" />
     <img src="https://github.com/rsskhna/rsskhna/raw/main/images/css.svg" alt="" width="40" />
     <img src="https://github.com/rsskhna/rsskhna/raw/main/images/scss.svg" alt="" width="40" />
