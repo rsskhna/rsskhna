@@ -10,10 +10,10 @@
 <img src="https://github.com/rsskhna/rsskhna/raw/main/images/cats.gif" width="40" alt=""/>
 </h3>
 <ul style="font-size: 16px">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>frontend developer with 2 years of experience</li>
+        <li>graduated from the Yandex.Practicum course</li>
+        <li>fond of UX/UI design</li>
+        <li>always open to new projects and ready to learn new things</li>
         <li>actively looking for a job</li>
 </ul>
 
