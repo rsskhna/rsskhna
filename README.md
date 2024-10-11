@@ -3,7 +3,7 @@
 <img src="https://github.com/rsskhna/rsskhna/raw/main/images/Hi.gif" width="32" alt=""/>
 </h1>
 
-<h2 align="center" >Frontend developer</h2>
+<p align="center" style="font-size: 20px;">Frontend developer</p>
 
 
 <h3>About me
@@ -36,6 +36,17 @@
     <img src="https://github.com/rsskhna/rsskhna/raw/main/images/figma.svg" alt="" width="40" />
 </p>
 
-
+<h3>Social networks</h3>
+<p>
+    <a href="mailto:rsskhna@mail.ru" target="_blank">
+        <img src="https://github.com/rsskhna/rsskhna/raw/main/images/email.svg" alt="" width="40" />
+    </a>
+    <a href="https://t.me/rsskhna" target="_blank">
+        <img src="https://github.com/rsskhna/rsskhna/raw/main/images/telegram.svg" alt="" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/rsskhna/" target="_blank">
+        <img src="https://github.com/rsskhna/rsskhna/raw/main/images/leetcode.svg" alt="" width="40" />
+    </a>
+</p>
 
 
