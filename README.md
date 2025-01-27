@@ -14,7 +14,6 @@
         <li>graduated from the Yandex.Practicum course</li>
         <li>fond of UX/UI design</li>
         <li>always open to new projects and ready to learn new things</li>
-        <li>actively looking for a job</li>
 </ul>
 
 <h3>Technology stack</h3>
