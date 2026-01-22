@@ -37,10 +37,10 @@
 
 <h3>Social networks</h3>
 <p>
-    <a href="mailto:rsskhna@mail.ru" target="_blank">
+    <a href="mailto:i.iagnenkova@mail.ru" target="_blank">
         <img src="https://github.com/rsskhna/rsskhna/raw/main/images/email.svg" alt="" width="40" />
     </a>
-    <a href="https://t.me/rsskhna" target="_blank">
+    <a href="https://t.me/iagnenkova" target="_blank">
         <img src="https://github.com/rsskhna/rsskhna/raw/main/images/telegram.svg" alt="" width="40" />
     </a>
     <a href="https://leetcode.com/u/rsskhna/" target="_blank">
